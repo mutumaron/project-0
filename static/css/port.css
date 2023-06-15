@@ -1,0 +1,78 @@
+ul{
+    list-style-type: none;
+    
+    
+    overflow: hidden;
+    
+}
+nav {
+    float: right;
+    padding-top: 20px;
+}
+li {
+    display: inline;
+    
+}
+a {
+    color: wheat;
+    padding: 15px;
+    text-decoration: none;
+    
+}
+
+    
+
+li a:hover {
+    background-color: orangered;
+}
+
+
+
+
+h1 {
+    padding: 20px;
+    text-align: center; 
+    padding-top: 100px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: wheat;
+
+}
+p {
+    padding: 20px;
+    text-align: center;
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 20px;
+    color: white;
+}
+body {
+    background-image: url("../img/moon1.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.avatar{
+    text-align: center;
+    padding-top: 100px;
+}
+.coon{
+    background-color: antiquewhite;
+    padding: 1px;
+    border-radius: 30px;
+    
+    
+}
+h2{
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+}
+.social{
+    text-align: center;
+    width: 400px;
+    margin-left: 20%;
+    justify-content: center;
+    text-align: center;
+}
